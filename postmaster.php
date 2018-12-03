@@ -1,7 +1,7 @@
 <?php
-$EMAIL = 'your@mail.ru'; //  Ваш e-mail на который будут приходить заявки
-$FROM = 'mail@mail.ru';  //  e-mail отправителя (иногда требуется указать разрешенный настройками e-mail)
-$REPLY = 'noreplay@mail.ru';   //  e-mail для ответа 
+$EMAIL = 'my.macos.vk@gmail.com'; //  Ваш e-mail на который будут приходить заявки
+$FROM = 'my.macos.vk@gmail.com';  //  e-mail отправителя (иногда требуется указать разрешенный настройками e-mail)
+$REPLY = 'my.macos.vk@gmail.com';   //  e-mail для ответа 
 $PRIORITY = false;       //  пометить как важное
 
 
