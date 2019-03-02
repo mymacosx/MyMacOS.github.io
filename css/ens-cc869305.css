@@ -27,9 +27,6 @@
 
 }
 
-
-
-
 #easynetshop-cart {
  border: 1px solid #a42037;
  display: none;
@@ -96,7 +93,7 @@
     top: -5px;
     text-align: center;
     line-height: 30px;
-    font-family: Arial,sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     margin: 0px 3px;
     z-index:1150;
 }
@@ -112,9 +109,9 @@
  top: 0px;
  left: 0;
  right: 0;
- width: 600px;
+ width: 500px;
  font-family: 'Source Sans Pro', sans-serif;
- color: #fff;
+ color: #333;
  line-height: 1.42857143;
  font-weight: 300;
  font-size: 13px;
@@ -131,7 +128,7 @@
  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
  -webkit-background-clip: padding-box;
  background-clip: padding-box;
- opacity: 0.85;
+ opacity: 0.9;
  overflow-y:hidden;
  outline: 0;
  -webkit-box-sizing: border-box;
@@ -709,7 +706,10 @@ div.easynetshop-modal-cart {
 	font-weight: bold;
 	}
 .easynetshop-old-price, .easynetshop-cross-old-price {
-        text-decoration: line-through;color: #999;padding: 0px 5px;
+        text-decoration: 
+        line-through;
+        color: #999;
+        padding: 0px 5px;
 	}
 .easynetshop-discount-good{
         padding: 2px 4px;
