@@ -111,7 +111,7 @@
  right: 0;
  width: 500px;
  font-family: 'Source Sans Pro', sans-serif;
- color: #333;
+ color: #333; /*color of text window*/
  line-height: 1.42857143;
  font-weight: 300;
  font-size: 13px;
