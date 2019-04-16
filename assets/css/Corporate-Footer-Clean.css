@@ -92,3 +92,16 @@
   text-align: center;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+}
+
+.d-sm-flex.image-1 {
+  margin-left: 48%;
+}
+
+@media (min-width: 576px) {
+  .navbar-dark .navbar-nav .nav-link {
+    font-size: 20px;
+  }
+}
+
