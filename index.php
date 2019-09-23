@@ -337,7 +337,7 @@ div.errors .error{
                 </div>
                 <div class="d-inline-block legal-links">
                     <div class="d-inline-block item"><a href="https://t.me/Hackintosh_RU" style="text-decoration: none;font-size: 11px;color: #333;">Telegram</a></div>
-                    <div class="d-inline-block item"><a href="https://vk.com/makememac" style="text-decoration: blink;font-size: 11px;color: #333;">VK</a></div>
+                    <div class="d-inline-block item"><a href="https://vk.com/hackintosh_osx" style="text-decoration: blink;font-size: 11px;color: #333;">VK</a></div>
                     <div class="d-inline-block item"><a href="skype:alexandr.r5" style="text-decoration: blink;font-size: 11px;color: #333;">Skype</a></div>
                     <div class="d-inline-block item"><a href="mailto:my.macos.vk@gmail.com" style="text-decoration: blink;font-size: 11px;color: #333;">E-mail</a></div>
                 </div>
